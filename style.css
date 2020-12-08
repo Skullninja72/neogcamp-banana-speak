@@ -10,6 +10,7 @@
 body {
     font-family: 'Comfortaa', cursive;
         margin:0;
+        background-image: url('imgages/minion.jpg');
         background-size: 100% 100%;
         background-repeat: no-repeat;
         background-position: center;
